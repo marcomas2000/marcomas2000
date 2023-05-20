@@ -4,7 +4,8 @@
 - MidiAuth: ![Build status](https://github.com/marcomas2000/MidiAuth/actions/workflows/msbuild.yml/badge.svg)
 - Wavefiles: ![Build status](https://github.com/marcomas2000/WaveFiles/actions/workflows/qmakebuild.yml/badge.svg)
 - SimpleReactor: ![Build status](https://github.com/marcomas2000/simple_reactor/actions/workflows/cmake.yml/badge.svg)
-- DictionaryStructures: ![Build status](https://github.com/marcomas2000/DictionaryStructures/actions/workflows/cmake.yml/badge.svg)
+- DictionaryStructures: ![Build status](https://github.com/marcomas2000/DictionaryStructures/actions/workflows/cmake.yml/badge.svg) ![Build status](https://github.com/marcomas2000/DictionaryStructures/actions/workflows/gtest.yml/badge.svg)
+
 
 <!---
 marcomas2000/marcomas2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
