@@ -7,6 +7,7 @@
 - DictionaryStructures: ![Build status](https://github.com/marcomas2000/DictionaryStructures/actions/workflows/cmake.yml/badge.svg) ![Build status](https://github.com/marcomas2000/DictionaryStructures/actions/workflows/gtest.yml/badge.svg)
 - HistoricalFractals: ![Build status](https://github.com/marcomas2000/HistoricalFractals/actions/workflows/cmake.yml/badge.svg)
 - RandomFractals: ![Build status](https://github.com/marcomas2000/RandomFractals/actions/workflows/cmake.yml/badge.svg)
+- FractalsDiscovery: ![Build status](https://github.com/marcomas2000/FractalsDiscovery/actions/workflows/build.yml/badge.svg)
 
 
 <!---
