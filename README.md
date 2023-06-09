@@ -8,7 +8,7 @@
 - HistoricalFractals: ![Build status](https://github.com/marcomas2000/HistoricalFractals/actions/workflows/cmake.yml/badge.svg)
 - RandomFractals: ![Build status](https://github.com/marcomas2000/RandomFractals/actions/workflows/cmake.yml/badge.svg)
 - FractalsDiscovery: ![Build status](https://github.com/marcomas2000/FractalsDiscovery/actions/workflows/build.yml/badge.svg)
-- GlonbalEye: ![Build status](https://github.com/marcomas2000/GlonbalEye/actions/workflows/cmake.yml/badge.svg)
+- GlobalEye: ![Build status](https://github.com/marcomas2000/GlobalEye/actions/workflows/cmake.yml/badge.svg)
 
 
 
